@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container {
+    max-width: 1300px;
+    width: 90%;
+    margin: auto;
+  }
+  /* ... */
+}
+
+@layer base {
+  .no-scroll-bar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+@media (max-width: 500px) {
+  html {
+    font-size: 90%;
+  }
+}
+
+@media (max-width: 450px) {
+  .hidden {
+    display: none;
+  }
+
+  .sm-margin {
+    margin-top: 6rem;
+  }
+
+  html {
+    font-size: 80%;
+  }
+
+  .showCase-banner {
+    height: 650px;
+  }
+}
