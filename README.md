@@ -1,6 +1,6 @@
 # Project Overview:
 
-![book-us-now](https://github.com/Karishma019/book-us-now/blob/main/Screenshot%202024-03-31%20175512.png)
+![book-us-now](https://github.com/Karishma019/book-us-now/assets/76932440/73f2d284-5330-413e-afb5-11234bb64c74)
 
 The project appears to be a website named "BookUsNow" designed to help users discover and book events happening near them. The layout seems to be designed for easy navigation with features like horizontal scrolling and infinite scroll for each page.
 
